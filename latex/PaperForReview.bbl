@@ -1,33 +1,23 @@
 \begin{thebibliography}{1}\itemsep=-1pt
 
-\bibitem{Alpher02}
-FirstName Alpher.
-\newblock Frobnication.
-\newblock {\em IEEE TPAMI}, 12(1):234--778, 2002.
+\bibitem{8093539}
+Gürol Canbek, Seref Sagiroglu, Tugba~Taskaya Temizel, and Nazife Baykal.
+\newblock Binary classification performance measures/metrics: A comprehensive visualized roadmap to gain new insights.
+\newblock In {\em 2017 International Conference on Computer Science and Engineering (UBMK)}, pages 821--826, 2017.
 
-\bibitem{Alpher03}
-FirstName Alpher and FirstName Fotheringham-Smythe.
-\newblock Frobnication revisited.
-\newblock {\em Journal of Foo}, 13(1):234--778, 2003.
+\bibitem{hu2008classification}
+Yi-Chung Hu.
+\newblock Classification performance evaluation of single-layer perceptron with choquet integral-based topsis.
+\newblock {\em Applied Intelligence}, 29:204--215, 2008.
 
-\bibitem{Alpher04}
-FirstName Alpher, FirstName Fotheringham-Smythe, and FirstName Gamow.
-\newblock Can a machine frobnicate?
-\newblock {\em Journal of Foo}, 14(1):234--778, 2004.
+\bibitem{rosenblatt1958perceptron}
+Frank Rosenblatt.
+\newblock {\em The perceptron: a theory of statistical separability in cognitive systems (Project Para)}.
+\newblock Cornell Aeronautical Laboratory, 1958.
 
-\bibitem{Alpher05}
-FirstName Alpher and FirstName Gamow.
-\newblock Can a computer frobnicate?
-\newblock In {\em CVPR}, pages 234--778, 2005.
-
-\bibitem{Authors14}
-FirstName LastName.
-\newblock The frobnicatable foo filter, 2014.
-\newblock Face and Gesture submission ID 324. Supplied as supplemental material {\tt fg324.pdf}.
-
-\bibitem{Authors14b}
-FirstName LastName.
-\newblock Frobnication tutorial, 2014.
-\newblock Supplied as supplemental material {\tt tr.pdf}.
+\bibitem{smith1988using}
+Jack~W Smith, James~E Everhart, WC Dickson, William~C Knowler, and Robert~Scott Johannes.
+\newblock Using the adap learning algorithm to forecast the onset of diabetes mellitus.
+\newblock In {\em Proceedings of the annual symposium on computer application in medical care}, page 261. American Medical Informatics Association, 1988.
 
 \end{thebibliography}

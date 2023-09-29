@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.26)  28 SEP 2023 20:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.26)  30 SEP 2023 02:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -408,45 +408,56 @@ Package hyperref Info: Link coloring ON on input line 45.
 \@outlinefile=\write3
 \openout3 = `PaperForReview.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 66.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 66.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 66.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 60.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
+)
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 75.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+
+LaTeX Warning: Citation `widrow1960adaptiv' on page 1 undefined on input line 102.
+
+[1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
-] [2] [3] [4] (./PaperForReview.bbl (./PaperForReview.brf)
+] [2] (./PaperForReview.bbl (./PaperForReview.brf)
 \tf@brf=\write4
 \openout4 = `PaperForReview.brf'.
 
-) [5
+) [3
 
 ] (./PaperForReview.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `PaperForReview.out' has not changed.
-(rerunfilecheck)             Checksum: CB3690DC7D6E1DD83B2B28787A950EA9;2553.
+(rerunfilecheck)             Checksum: A93A1168CF4519346DEB09D2D99A0DB8;1039.
 Package rerunfilecheck Info: File `PaperForReview.brf' has not changed.
-(rerunfilecheck)             Checksum: E35957CBC8B8ED4EC00B8F2A32C92C33;466.
+(rerunfilecheck)             Checksum: 8B9EBE15483ECEC9C34F511E8137DB19;256.
  ) 
 Here is how much of TeX's memory you used:
- 13873 strings out of 476025
- 233753 string characters out of 5790017
- 1872388 words of memory out of 5000000
- 34094 multiletter control sequences out of 15000+600000
- 545280 words of font info for 106 fonts, out of 8000000 for 9000
+ 13809 strings out of 476025
+ 233006 string characters out of 5790017
+ 1871388 words of memory out of 5000000
+ 34050 multiletter control sequences out of 15000+600000
+ 537034 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,9n,90p,1246b,531s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on PaperForReview.pdf (5 pages, 158666 bytes).
+ 90i,9n,90p,1321b,455s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on PaperForReview.pdf (3 pages, 127604 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 189 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 135 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
